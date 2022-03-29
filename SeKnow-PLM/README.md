@@ -7,7 +7,7 @@ Start with creating a python 3.7 venv and installing requirements.txt.
 Note: In the installed transformers package, you probably need to change all the "outputs.logits" in generation_utils.py to "outputs\[0\]"
 
 ## Datasets
-Our preprocessed datasets can be downloaded from [this link](https://drive.google.com/file/d/1laIY5xufen5RYpc8_Jtw9FaG8dxyKSDw/view?usp=sharing), please unzip the file under the root directory and data is placed in datasets/.
+Our preprocessed datasets can be downloaded from [this link](https://drive.google.com/file/d/1laIY5xufen5RYpc8_Jtw9FaG8dxyKSDw/view?usp=sharing), please unzip the file under the root directory and data is placed in datasets/
 
 Please also unzip the back translation corpus for data augmentation in scripts/data/backtranslation.zip
 
