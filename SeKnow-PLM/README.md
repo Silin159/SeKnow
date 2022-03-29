@@ -2,7 +2,7 @@
 This is the code for SeKnow-PLM in paper [End-to-End Task-Oriented Dialog Modeling with Semi-Structured Knowledge Management](https://arxiv.org/abs/2106.11796).
 
 ## Getting started
-Start with creating a python 3.7 venv and installing requirements.txt.
+See requirements.txt for setting up the environment.
 
 Note: In the installed transformers package, you probably need to change all the "outputs.logits" in generation_utils.py to "outputs\[0\]"
 
