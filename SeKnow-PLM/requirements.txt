@@ -1,4 +1,5 @@
-# It is recommended to install torch following the instructions on Pytorch website, to ensure torch matches your CUDA version.
+# python==3.7.10
+# It is recommended to install torch following the instructions on Pytorch website, to ensure torch matches your CUDA version (Our CUDA version is 10.1)
 # torch==1.6.0
 torchtext==0.3.1
 rouge=1.0.0
