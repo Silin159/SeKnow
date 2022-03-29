@@ -1,7 +1,7 @@
 import os
 import functools
 import logging
-from data.utils import ConcatDialogDataset, split_name, wrap_dataset_with_blacklist
+from .utils import ConcatDialogDataset, split_name, wrap_dataset_with_blacklist
 
 RESTRICTED_DOMAINS = ['hotel', 'train', 'restaurant', 'attraction', 'taxi',
                       'hospital', 'police', 'rentalcar', 'flight', 'hotels',
