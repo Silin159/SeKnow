@@ -1,4 +1,5 @@
-torch==1.6.0
+# It is recommended to install torch following the instructions on Pytorch website, to ensure torch matches your CUDA version.
+# torch==1.6.0
 torchtext==0.3.1
 rouge=1.0.0
 numpy==1.19.4
